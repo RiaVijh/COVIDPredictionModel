@@ -1,3 +1,4 @@
+[Delhi.xlsx](https://github.com/AKKwork/COVIDPredictionModel/files/7828031/Delhi.xlsx)
 # COVIDPredictDeploy
 
 ## The Following Model is used to :
